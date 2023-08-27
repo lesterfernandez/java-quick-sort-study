@@ -1,0 +1,1 @@
+javac grading/*.java && java -ea grading/Gradebook
